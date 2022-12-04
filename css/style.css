@@ -52,7 +52,7 @@ ul {margin: 0px; list-style:none;padding:0px; }
   align-content: center; 
   margin: 0px; 
 }
-.calculator-box {
+.first-row {
   height:50px;
   width:50px;
   background: tomato;
